@@ -44,7 +44,7 @@ body {
     border-radius: 6px;
     font-size: 15px;
     cursor: pointer;
-    transition: background 0.3s ease;
+    transition: 0.3s ease;
 }
 
 .login-form input[type="submit"]:hover {
